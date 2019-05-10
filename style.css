@@ -1,4 +1,5 @@
 body{
+    width:1000px; 
     
 }
 li{
@@ -27,7 +28,7 @@ li{
 
 }
 #nav li {
-    width: 372px;
+    width: 250px;
     text-align: center;
     background-color: #333;
     float: left;
@@ -175,7 +176,7 @@ p {
     
 }
 .wrap {
-    width: 1500px;
+    width: 1300px;
     overflow: hidden;
 }
 
