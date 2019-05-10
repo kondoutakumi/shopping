@@ -1,0 +1,90 @@
+.wrap {
+    width: 1500px;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+
+}
+
+h1:first-letter {
+    background-color: #99FF66;
+    color: white;
+    height: 100px;
+    width: 100px;
+    margin: 6px;
+}
+
+#nav {
+    list-style: none;
+}
+
+#nav li {
+    width: 300px;
+    text-align: center;
+    background-color: gainsboro;
+    display: inline-block;
+}
+
+#nav li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.midashi {
+    color: #99FF66;
+    font-size: 25px;
+}
+
+.rap {
+    background-color: #99FF66;
+    color: white;
+    height: 20px;
+    width: 120px;
+    text-align: center;
+    margin: 5px;
+}
+
+.NEW {
+    background-color: red;
+    color: white;
+    height: 20px;
+    width: 100px;
+    text-align: center;
+    margin: 5px;
+}
+
+.kart {
+    background-color: #99FF66;
+    color: white;
+    height: 40px;
+    width: 250px;
+    text-align: center;
+
+
+}
+
+p.content1 {
+    width: 400px;
+    height: 50px;
+    border: solid #008080;
+}
+
+figure {
+
+    text-align: center;
+}
+
+
+
+
+footer {
+    clear: both;
+}
