@@ -1,5 +1,4 @@
-body{
-    width:1000px; 
+body{width: 1500px;
     
 }
 li{
@@ -24,18 +23,14 @@ li{
     list-style: none;
     position: relative;
     left: 25%;
-
-
 }
 #nav li {
-    width: 250px;
+    width: 365px;
+    height:50px;
     text-align: center;
     background-color: #333;
     float: left;
-    height: 50px;
     line-height: 50px;
-    margin-right: 2px;
-
 
 }
 
@@ -47,7 +42,7 @@ li{
 
 h1 {
     text-align: center;
-     left: 3%;
+     left: 27%;
      position: relative;
 
     
@@ -163,8 +158,8 @@ h2 {
     float: left;
     width: 310px;
     height: 300px;
-    margin: 20px;
     padding: 10px;
+    
 
     
 }
@@ -176,7 +171,7 @@ p {
     
 }
 .wrap {
-    width: 1300px;
+    width: 1500px;
     overflow: hidden;
 }
 
@@ -203,4 +198,5 @@ p {
 footer {
     clear: both;
 }
+ 
  
