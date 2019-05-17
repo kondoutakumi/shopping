@@ -1,5 +1,5 @@
-body{width: 1500px;
-    
+body{
+    width: 1500px;
 }
 li{
     list-style: none; 
@@ -8,8 +8,8 @@ li{
 .banner {
     float: left;
     width: 300px;
-  position: relative;
-  left: 25%;
+    position: relative;
+    left: 25%;
 
 }
 #main {
@@ -78,7 +78,7 @@ h2 {
     float: left;
     height: 50px;
     line-height: 55px;
-    margin-right: 2px;
+  
 
 }
 
