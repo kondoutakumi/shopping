@@ -1,6 +1,10 @@
 body{
     width: 1500px;
+<<<<<<< HEAD
     height: 1000px;
+=======
+      background-image: url("images/.jpg");
+>>>>>>> a0402967570778c40b00188c7d4fb6749c01670b
 }
 li{
     list-style: none; 
@@ -23,10 +27,16 @@ li{
 .menu {
     list-style: none;
     position: relative;
-    left: 25%;
+    left: 25.6%;
+   
 }
+<<<<<<< HEAD
 .menu li {
     width: 365px;
+=======
+#nav li {
+    width: 350px;
+>>>>>>> a0402967570778c40b00188c7d4fb6749c01670b
     height:50px;
     text-align: center;
     background-color: #333;
