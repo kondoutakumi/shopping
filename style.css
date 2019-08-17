@@ -1,5 +1,6 @@
 body{
     width: 1500px;
+    height: 1000px;
 }
 li{
     list-style: none; 
@@ -19,12 +20,12 @@ li{
      left: 25%;
 
 }
-#nav {
+.menu {
     list-style: none;
     position: relative;
     left: 25%;
 }
-#nav li {
+.menu li {
     width: 365px;
     height:50px;
     text-align: center;
@@ -33,11 +34,15 @@ li{
     line-height: 50px;
 
 }
-
-#nav li a {
+.menu li a {
     text-decoration: none;
     color: white;
     font-weight: bold;
+    cursor: pointer;
+    cursor: hand;
+}
+menu :hover {
+   opacity: 0.5;
 }
 
 h1 {
