@@ -1,6 +1,5 @@
-body{
-    width: 1500px;
-      background-image: url("images/.jpg");
+body{width: 1500px;
+    
 }
 li{
     list-style: none; 
@@ -9,8 +8,8 @@ li{
 .banner {
     float: left;
     width: 300px;
-    position: relative;
-    left: 25%;
+  position: relative;
+  left: 25%;
 
 }
 #main {
@@ -23,11 +22,10 @@ li{
 #nav {
     list-style: none;
     position: relative;
-    left: 25.6%;
-   
+    left: 25%;
 }
 #nav li {
-    width: 350px;
+    width: 365px;
     height:50px;
     text-align: center;
     background-color: #333;
@@ -80,7 +78,7 @@ h2 {
     float: left;
     height: 50px;
     line-height: 55px;
-  
+    margin-right: 2px;
 
 }
 
@@ -201,9 +199,3 @@ footer {
     clear: both;
 }
  
-.shopping{
-    width: 265px;
-    height: 170px;
-    background-color: ;
-    color: black; 
-}
