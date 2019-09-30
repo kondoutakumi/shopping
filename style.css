@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 body{width: 1500px;
     
+=======
+body{
+    width: 1500px;
+<<<<<<< HEAD
+    height: 1000px;
+=======
+      background-image: url("images/.jpg");
+>>>>>>> a0402967570778c40b00188c7d4fb6749c01670b
+>>>>>>> 0929263bbf695fa08906fef9ed61d96df74a5502
 }
 li{
     list-style: none; 
@@ -19,13 +29,22 @@ li{
      left: 25%;
 
 }
-#nav {
+.menu {
     list-style: none;
     position: relative;
     left: 25%;
 }
-#nav li {
+<<<<<<< HEAD
+.menu li {
     width: 365px;
+=======
+#nav li {
+<<<<<<< HEAD
+    width: 365px;
+=======
+    width: 350px;
+>>>>>>> a0402967570778c40b00188c7d4fb6749c01670b
+>>>>>>> 0929263bbf695fa08906fef9ed61d96df74a5502
     height:50px;
     text-align: center;
     background-color: #333;
@@ -33,11 +52,15 @@ li{
     line-height: 50px;
 
 }
-
-#nav li a {
+.menu li a {
     text-decoration: none;
     color: white;
     font-weight: bold;
+    cursor: pointer;
+    cursor: hand;
+}
+menu :hover {
+   opacity: 0.5;
 }
 
 h1 {
@@ -198,4 +221,14 @@ p {
 footer {
     clear: both;
 }
+<<<<<<< HEAD
  
+=======
+ 
+.shopping{
+    width: 265px;
+    height: 170px;
+    background-color: ;
+    color: black; 
+}
+>>>>>>> 0929263bbf695fa08906fef9ed61d96df74a5502
