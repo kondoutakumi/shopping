@@ -47,7 +47,7 @@ li{
 
 h1 {
     text-align: center;
-     left: 3%;
+     left: 25%;
      position: relative;
 
     
@@ -107,8 +107,6 @@ h2 {
     width: 260px;
     margin: 30px;
     padding: 20px;
-
-
 }
 
 .iyasi {
@@ -143,13 +141,12 @@ h2 {
     padding: 20px;
 }
 
-.single {
+.single{
     float: left;
     width: 300px;
     margin: 90px;
-
-
 }
+
 
 .yanagi {
     float: left;
