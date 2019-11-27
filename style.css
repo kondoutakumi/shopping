@@ -1,6 +1,15 @@
 body{
-    width: 1600px;
+    width: 2100px;
+    height: 4300px;
+    margin: 0 auto;
+    padding: 10px;
     
+}
+.title h1 {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    left: 240px;
 }
 li{
     list-style: none; 
@@ -15,7 +24,7 @@ li{
 }
 #main {
      text-align: center;
-     width: 1500px;
+     width: 2100px;
      position: relative;
      left: 25%;
 
@@ -45,13 +54,7 @@ li{
     font-weight: bold;
 }
 
-h1 {
-    text-align: center;
-     left: 25%;
-     position: relative;
 
-    
-}
 
 h1:first-letter {
     background-color: #99FF66;
@@ -104,9 +107,13 @@ h2 {
 
 .item {
     float: left;
-    width: 260px;
-    margin: 30px;
-    padding: 20px;
+    width: 270px;
+    margin: 0 auto;
+    padding: 40px;
+}
+.item p{
+    margin: 0 auto;
+
 }
 
 .iyasi {
@@ -143,8 +150,14 @@ h2 {
 
 .single{
     float: left;
-    width: 300px;
-    margin: 90px;
+    width: 500px;
+    margin: 0 auto;
+
+    
+}
+.single figure p{
+    text-align: center;
+     margin: 5px;
 }
 
 
@@ -155,11 +168,15 @@ h2 {
     padding: 6px;
 }
 
-
-p {
-    margin: 5px;
-    text-align: center;
+.news {
+    width: 1200px;
+    margin: 0 auto
 }
+.News{
+    width: 1300px;
+    margin: 0 auto   
+}
+
 .wrap {
     width: 1500px;
     overflow: hidden;

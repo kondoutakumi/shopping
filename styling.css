@@ -1,5 +1,8 @@
-body{
-    1200px;
+.wrap{
+margin: 0 auto;
+width:1200px;
+}
+
     
     
 }
@@ -31,7 +34,7 @@ h1:first-letter {
 }
 
 #nav li {
-    width: 360px;
+    width: 280px;
     height:50px;
     text-align: center;
     background-color: #333;
@@ -61,9 +64,9 @@ h1:first-letter {
 }
 
 .NEW {
-    background-color: red;
+    background-color: #99FF66;
     color: white;
-    height: 5px;
+    height: 25px;
     width: 100px;
     text-align: center;
     margin: 5px;
@@ -73,7 +76,7 @@ h1:first-letter {
     background-color: #99FF66;
     color: white;
     height: 30px;
-    width: 250px;
+    width: 240px;
     text-align: center;
 
 
@@ -86,17 +89,19 @@ p.content1 {
 }
 
 figure {
-
     text-align: center;
+    
 }
-
-
+figure img{
+    margin: 100px;
+}
+.lyrics{
+    width:500px;
+    height:300px;
+    margin: 0 auto;
+}
 
 
 footer {
-    clear: both;
-}
-.syouhin{
-   text-align: center; 
-    
+text-align: center;
 }
